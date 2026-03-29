@@ -1,13 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9ac8b5bb-617b-4c4d-828f-5f842d478350" name="変更" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyproject.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_main.http" afterDir="false" />
+    <list default="true" id="9ac8b5bb-617b-4c4d-828f-5f842d478350" name="変更" comment="feature: login &amp; blog crud">
+      <change afterPath="$PROJECT_DIR$/docs/01-dockerfile.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/01-dockerfile.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/02-compose.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/02-compose.pptx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +23,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "git@github.com:sakurakotubaki/fastapiBlogBackend.git",
+    "accountId": "4c230e24-0631-4320-9dff-ece435d032ef"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1,
   &quot;fromUser&quot;: false
@@ -43,7 +47,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "ai.playground.ignore.import.keys.banner.in.settings": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "docs",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
@@ -82,12 +86,25 @@
       <option name="presentableId" value="Default" />
       <updated>1774780216435</updated>
       <workItem from="1774780217435" duration="110000" />
-      <workItem from="1774780392790" duration="3510000" />
+      <workItem from="1774780392790" duration="5271000" />
     </task>
+    <task id="LOCAL-00001" summary="feature: login &amp; blog crud">
+      <option name="closed" value="true" />
+      <created>1774783957690</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1774783957690</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feature: login &amp; blog crud" />
+    <option name="LAST_COMMIT_MESSAGE" value="feature: login &amp; blog crud" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/FastAPIProject$FastAPIProject.coverage" NAME="FastAPIProject のカバレッジ結果" MODIFIED="1774780253597" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
